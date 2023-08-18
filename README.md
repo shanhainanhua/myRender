@@ -1,4 +1,4 @@
-# myrender
+# myRender
 
 # 实现效果
 
@@ -88,7 +88,7 @@ public :
 
 　　eye代表观察点，target代表看向的方向，up表示正上方。
 
-　　同过 up和叉乘可以计算出相机的坐标，x，y，z
+　　通过up向量和eye、target，结合叉乘可以计算出相机的坐标，x，y，z
 
 ```
 
