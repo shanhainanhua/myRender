@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\dev\vcpkg\installed\x64-windows\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\main.cpp(27,56): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn_for_job\project\myrender\main.cpp(97,86): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  9 of 693 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  myrender.vcxproj -> E:\learn_for_job\project\myrender\x64\Release\myrender.exe

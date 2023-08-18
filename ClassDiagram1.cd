@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="mouse" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAAAAAAAIAAgAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>platform\win32.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="window" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAIAQQAYAAAEAAAAAAAACAARAAAAAAAgAA=</HashCode>
+      <FileName>platform\win32.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="mouse_t" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>platform\win32.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="window_t" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>platform\win32.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,376 @@
+﻿  camera.cpp
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\camera\camera.cpp(10,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\camera\camera.cpp(14,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\camera\camera.cpp(15,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\camera\camera.cpp(20,25): warning C4305: “初始化”: 从“double”到“float”截断
+E:\learn_for_job\project\myrender\camera\camera.cpp(24,44): warning C4305: “=”: 从“double”到“float”截断
+E:\learn_for_job\project\myrender\camera\camera.cpp(32,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\camera\camera.cpp(33,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\camera\camera.cpp(34,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\camera\camera.cpp(63,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  geometry.cpp
+  sample.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(18,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(18,42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(18,70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(26,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(27,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(32,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(33,18): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(42,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(43,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(48,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(49,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(58,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(59,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(64,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(65,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(80,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\sample.cpp(81,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main.cpp(27,56): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn_for_job\project\myrender\main.cpp(97,86): warning C4305: “参数”: 从“double”到“float”截断
+  main_withouzbuffer.cpp
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xe1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xf0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xf2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xf5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xf6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xf9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xfa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xfb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xfc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xfd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xfe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x101 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x102 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x105 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x106 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x446 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x454 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x455 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x456 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x458 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x45a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x45b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x45c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x45d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x45f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x468 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x469 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x46c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x46d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x46e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x470 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x471 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x474 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x475 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x47a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x47c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x47d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x47f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x482 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x484 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x485 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x486 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x487 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x488 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x489 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x48a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x48c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x48f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x490 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x491 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x493 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x497 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x498 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x499 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x49c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x49e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x4fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x504 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x505 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x506 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x507 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x508 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x509 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x50d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x50f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x513 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x515 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x516 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x518 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x519 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x51a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x51b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x51c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x520 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x521 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x523 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x524 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x525 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x527 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x528 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x529 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x52c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x52d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x52e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x530 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x533 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x534 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x537 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x539 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x53a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x53c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x53e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x53f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x540 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x544 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x547 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x548 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x54a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x54b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x54d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x551 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x553 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x554 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xabc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xabd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xabe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xabf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xac2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xac3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xac4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc24 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc28 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc59 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc62 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc64 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xc76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd88 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd8c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd95 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0xd99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1004 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1005 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x100a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x100b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x100f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1011 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1012 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1013 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1018 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1019 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x101a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x101c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x101e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x101f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x10fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\main_withouzbuffer.cpp(1,1): warning C4828: 文件包含在偏移 0x1100 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  myshader.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+  simplemodel.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(103,86): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(117,41): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(180,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(181,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(197,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(198,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(226,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(248,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(249,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(271,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(277,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\core\simplemodel.cpp(290,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  tgaimage.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+  win32.cpp
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0x63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\learn_for_job\project\myrender\platform\win32.cpp(218,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\learn_for_job\project\myrender\platform\win32.cpp(228,9): warning C4101: “j”: 未引用的局部变量
+E:\learn_for_job\project\myrender\platform\win32.cpp(228,6): warning C4101: “i”: 未引用的局部变量
+  raster.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(123,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(204,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(205,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(215,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(268,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(270,34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(272,34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(274,34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(276,34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(278,34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(280,34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(387,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(388,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(389,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(390,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(404,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(405,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(413,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(474,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(475,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(476,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(477,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(491,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(492,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\raster\raster.cpp(449,19): warning C4101: “c”: 未引用的局部变量
+  phong_shader.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(24,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(24,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(24,43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(35,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(79,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(81,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(89,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\phong_shader.cpp(98,15): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+  shadow_shader.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+  skybox_shader.cpp
+E:\learn_for_job\project\myrender\core\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\core\tgaimage.h(87,32): warning C4244: “/=”: 从“const double”转换到“unsigned char”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\skybox_shader.cpp(17,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\skybox_shader.cpp(17,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\skybox_shader.cpp(17,43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn_for_job\project\myrender\shader\skybox_shader.cpp(23,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  myrender.vcxproj -> E:\learn_for_job\project\myrender\x64\Debug\myRender.exe
